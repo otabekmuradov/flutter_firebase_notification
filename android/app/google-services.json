@@ -9,7 +9,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:916324252005:android:bee341416ae3f89807098c",
         "android_client_info": {
-          "package_name": "com.example.flutter_firebase_push_notification"
+          "package_name": "com.example.flutter_firebase_notification"
         }
       },
       "oauth_client": [],
